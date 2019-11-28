@@ -1,16 +1,14 @@
-# myapp
+# World Time and Temperature App
 
-A new Flutter application.
+An application which displays time and temperature of places around the world built with Flutter. API used: Weather API https://openweathermap.org/api and World Time API http://worldtimeapi.org/.
 
-## Getting Started
+## Requirements
 
-This project is a starting point for a Flutter application.
+You will need to sign up to get the API key to use the Weather API. No extra actions are required to use the World Time API.
 
-A few resources to get you started if this is your first Flutter project:
+## Credits
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Referred to the Flutter tutorial by The Net Ninja https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
